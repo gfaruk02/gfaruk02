@@ -4,6 +4,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gfaruk02&theme=radical" alt="GitHub Streak" /></a>
 ### 💻 Technologies that I know
+<hr />
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,express,nodejs,mongodb)](https://skillicons.dev)
