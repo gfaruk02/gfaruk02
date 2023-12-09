@@ -11,12 +11,12 @@
   
 ### 📈 Current Stats
 <hr />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gfaruk02&theme=radical" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gfaruk02&theme=radical" alt="GitHub Streak" /></a>
 
 ### 📫 Reach me out
 <hr />
-<a href="https://www.linkedin.com/in/golam-faruk-77a641a8/"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a>
-<a href="https://www.facebook.com/mdgolam.faruk.9"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'> </a>
+<a align="center" href="https://www.linkedin.com/in/golam-faruk-77a641a8/"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'> </a>
+<a align="center" href="https://www.facebook.com/mdgolam.faruk.9"> <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'> </a>
 
 
 ### 💻 Technologies that I know
