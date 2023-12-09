@@ -30,6 +30,7 @@
 
 ### 📝 Profile Summary
 <hr />
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gfaruk02&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gfaruk02&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gfaruk02&theme=default&utcOffset=8)
