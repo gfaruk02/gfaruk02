@@ -1,5 +1,14 @@
 <a href="#" align="center"><img src="https://i.ibb.co/ZfrfLcV/full-stack-cover-github.jpg" alt="GitHub Streak" width="850" height="500" align="center" /></a>
 
+### About Me 
+<hr />
+- 🎓 I’m Graduating in Computer Science and Engineering.
+- 🔭 I’m currently working on - my own Full-Stack Develepment Project.
+- 🌱 I’m currently learning - exploring new frameworks, technologies like nextJS, Material UI, Mongoose.
+- 👯 I’m looking - to collaborate on open source projects.
+- 🤔 I'm helping - people to learn web development.
+- ⚡ Fun fact - I love to make something new in my project.
+  
 ### 📈 Current Stats
 <hr />
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gfaruk02&theme=radical" alt="GitHub Streak" /></a>
@@ -19,10 +28,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
 
-### Current overview
 
-- 🔭 I’m currently working on - my own project.
-- 🌱 I’m currently learning - exploring new frameworks, technologies.
-- 👯 I’m looking - to collaborate on open source projects.
-- 🤔 I'm helping - people to learn web development.
-- ⚡ Fun fact - I love to make something new in my project.
