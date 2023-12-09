@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="#"><img src="https://i.ibb.co/LRdBpvf/github-cover.jpg" alt="GitHub Streak" /></a>
 
 ### 📈 Current Stats
 <hr />
