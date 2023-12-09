@@ -6,9 +6,7 @@
 
 ### 📫 Reach me out
 <hr />
-<a href="https://www.example.com" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">linkedin</a>
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/golam-faruk-77a641a8/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdgolam.faruk.9)  
 
 
 ### 💻 Technologies that I know
