@@ -2,12 +2,12 @@
 
 ### About Me 
 <hr />
-- 🎓 I’m Graduating in Computer Science and Engineering.
-- 🔭 I’m currently working on - my own Full-Stack Develepment Project.
-- 🌱 I’m currently learning - exploring new frameworks, technologies like nextJS, Material UI, Mongoose.
-- 👯 I’m looking - to collaborate on open source projects.
-- 🤔 I'm helping - people to learn web development.
-- ⚡ Fun fact - I love to make something new in my project.
+- 🎓 I’m Graduating in Computer Science and Engineering. <br />
+- 🔭 I’m currently working on - my own Full-Stack Develepment Project. <br />
+- 🌱 I’m currently learning - exploring new frameworks, technologies (nextJS, Material UI, Mongoose). <br />
+- 👯 I’m looking - to collaborate on open source projects. <br />
+- 🤔 I'm helping - people to learn web development. <br />
+- ⚡ Fun fact - I love to make something new in my project. <br />
   
 ### 📈 Current Stats
 <hr />
