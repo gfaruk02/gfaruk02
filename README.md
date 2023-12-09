@@ -6,6 +6,9 @@
 
 ### 📫 Reach me out
 <hr />
+<a href="https://www.example.com" style="padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;">linkedin</a>
+
+
 
 
 ### 💻 Technologies that I know
