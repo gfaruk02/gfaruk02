@@ -1,4 +1,4 @@
-<a href="#"><img src="https://i.ibb.co/LRdBpvf/github-cover.jpg" alt="GitHub Streak" /></a>
+<a href="#"><img src="https://i.ibb.co/LRdBpvf/github-cover.jpg" alt="GitHub Streak" width="500" height="550" /></a>
 
 ### 📈 Current Stats
 <hr />
